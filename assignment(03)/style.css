@@ -1,0 +1,63 @@
+#back{
+    background-color: black;
+    opacity: 2;
+}
+#btn{
+    background-image: radial-gradient(black, gray);
+    margin: 30px; 
+    height: 100px;
+    width: auto; 
+}
+a{
+    font-size: 25px; 
+    border: 3px  solid black; 
+    margin: 20px; 
+    padding: 10px;  
+    color: black;
+    outline-style: solid black;
+    float: right;
+    text-shadow: 1px 1px black;
+    text-align: center;
+    width: 100px;
+    height: 25px;
+    box-shadow: 5px 5px;
+}
+
+.background{
+    background-image: radial-gradient(black, gray);
+    height: 100%;
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+}
+.form{
+    float: inline-end;
+    text-align: justify;
+    margin: 50px 90px 50px 90px;
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: gray;
+}
+input{
+    width: 270px;
+    height: 20px;
+}
+.submit{
+    border: 3px  solid gray; 
+    background-color: black;
+    width: 100px;
+    height: 25px;
+    font-weight: 10px;
+    color: white;
+    margin: 20px;
+}
+img{
+    margin-top: 30px;
+    height: 400px;
+    width: 100%;
+    border: 3px  solid gray;
+}
