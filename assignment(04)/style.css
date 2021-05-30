@@ -1,0 +1,31 @@
+img{
+    height: 300px;
+    width: 350px;
+    border: 1px solid black;
+}
+#page{
+    background-image: radial-gradient(black, gray);
+    color: whitesmoke;
+    display: inline-block;
+}
+.img{
+    border: 3px solid black;
+    float: left;
+    width: 350px;
+    margin: 30px;
+    height: 700px;
+    box-shadow: 5px 5px 5px 5px black
+}
+.dscrptn{
+    text-align: justify;
+    padding: 5px;
+    border: 1px solid black;
+}
+button{
+    border: 2px solid black;
+    color: white;
+    background-image: radial-gradient(black, gray);
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
