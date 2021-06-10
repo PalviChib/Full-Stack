@@ -1,0 +1,90 @@
+#imp{
+    margin: auto;
+    padding: 10px;
+    width: 280px;
+
+}
+body{
+    background-color: white;
+    display: flexbox;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+#sign{
+    margin: auto;
+    padding: 10px;
+    width: 260px;
+    font-size: 15px;
+}
+#heading{
+    font-size: 30px;
+}
+#main{
+    text-align: center;
+}
+#img{
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    width: 50px;
+}
+p{
+    font-size: auto;
+}
+form{
+   background-color: rgba(244, 246, 255, 0.822);
+   border-radius: 10px;
+   border: 2px solid rgb(235, 239, 250);
+   
+}
+
+input{
+    
+    margin: 2%;
+    width: 90%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid rgb(235, 239, 250);
+}
+
+#new{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(62, 105, 248);
+    margin: 3px;
+    font-size: 15px;
+}
+a:hover{
+    text-decoration: underline;
+}
+#contact{
+    color: black;
+}
+#contact:hover{
+    color: rgb(62, 105, 248);
+}
+#pwd{
+    text-decoration: none;
+    float: right;
+}
+#btn{
+    background-color: green;
+    color: white;
+    width: 90%;
+}
+#account{
+    margin: 0px;
+}
+label{
+    font-size: auto;
+    float: left;
+}
